@@ -1,2 +1,2 @@
 # Reminder-App
-Basic concurrent app to practise with Erlang (by: http://learnyousomeerlang.com/)
+Basic concurrent app to practise with Erlang (http://learnyousomeerlang.com/)
